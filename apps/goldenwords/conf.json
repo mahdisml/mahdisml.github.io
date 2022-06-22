@@ -1,6 +1,6 @@
 {
-    "required_update_app_version": "2",
-    "update_app_version": "1",
+    "required_update_app_version": "1",
+    "update_app_version": "2",
     "ad_types": "1",
     "revive_minutes": "15"
   }
